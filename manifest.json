@@ -2,10 +2,10 @@
     "manifest_version":2,
     "name":"Advice",
     "description":"Quick Advices",
-    "version":"0.0.1",
-    "icons":{"64px":"advice.png"},
+    "version":"1.0.0",
+    "icons":{"128":"advice.png"},
     "browser_action":{
-        "default_icon":"icon.png",
+        "default_icon":"advice.png",
         "default_popup":"popup.html"
     },
     "permissions":["activeTab"]
